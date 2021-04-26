@@ -1,0 +1,6 @@
+module:
+  type: string
+  maxLength: 50
+  description: A module inside a DSLAM
+  example: DSLA/1
+   
